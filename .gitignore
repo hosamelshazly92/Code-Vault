@@ -104,5 +104,5 @@ dist
 .tern-port
 
 # Files
-home.html
-demo.js
+index.html
+script.js
