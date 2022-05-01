@@ -10,6 +10,8 @@
     <img src="https://www.codewars.com/users/hosamelshazly92/badges/large">
 </p>
 
+### [ Account : hosamelshazly92 ](https://www.codewars.com/users/hosamelshazly92){:target="\_blank"}
+
 ### 001_Thu_Apr_28_2022_13_23_09_GMT_0200
 
 Given an array of integers your solution should find the smallest integer.
