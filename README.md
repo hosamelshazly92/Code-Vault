@@ -18,8 +18,8 @@ Given an array of integers your solution should find the smallest integer.
 
 For example:
 
-Given [34, 15, 88, 2] your solution will return 2
-Given [34, -345, -1, 100] your solution will return -345
+Given [34, 15, 88, 2] your solution will return 2.
+Given [34, -345, -1, 100] your solution will return -345.
 You can assume, for the purpose of this kata, that the supplied array will not be empty.
 
 ### Solution
@@ -120,8 +120,8 @@ Return the results as an array (or list in Python, Haskell or Elixir).
 
 Examples:
 
-countBy(1,10) === [1,2,3,4,5,6,7,8,9,10]
-countBy(2,5) === [2,4,6,8,10]
+- countBy(1,10) === [1,2,3,4,5,6,7,8,9,10]
+- countBy(2,5) === [2,4,6,8,10]
 
 ### Solution
 
@@ -140,17 +140,20 @@ const fn = (x, n) => {
 
 ### 005_Sun_May_01_2022_22_37_12_GMT_0200
 
-Introduction
+###### Introduction
+
 The first century spans from the year 1 up to and including the year 100, the second century - from the year 101 up to and including the year 200, etc.
 
-Task
+###### Task
+
 Given a year, return the century it is in.
 
-Examples
-1705 --> 18
-1900 --> 19
-1601 --> 17
-2000 --> 20
+###### Examples
+
+- 1705 --> 18
+- 1900 --> 19
+- 1601 --> 17
+- 2000 --> 20
 
 ### Solution
 
