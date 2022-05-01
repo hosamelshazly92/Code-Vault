@@ -2,10 +2,12 @@
 
 ## CodeWars Challenges
 
-![alt text](codewars.png "Logo Title Text 1")
+<p align="center">
+    <img height="300" src="./codewars.png">
+</p>
 
 <p align="center">
-    <img height="200" src="./codewars.png" alt="codewars">
+    <img src="https://www.codewars.com/users/hosamelshazly92/badges/large">
 </p>
 
 ### 001_Thu_Apr_28_2022_13_23_09_GMT_0200
