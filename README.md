@@ -1,6 +1,6 @@
 # Code-Vault
 
-### Thu_Apr_28_2022_13_23_09_GMT_0200
+### 001_Thu_Apr_28_2022_13_23_09_GMT_0200
 
 Given an array of integers your solution should find the smallest integer.
 
@@ -28,7 +28,7 @@ const fn = (arr) => {
 
 ---
 
-### Fri_Apr_29_2022_01_18_23_GMT_0200
+### 002_Fri_Apr_29_2022_01_18_23_GMT_0200
 
 Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('\_').
 
@@ -80,7 +80,7 @@ const fn = (str) => {
 
 ---
 
-### Sun_May_01_2022_14_47_07_GMT_0200
+### 003_Sun_May_01_2022_14_47_07_GMT_0200
 
 Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
 
