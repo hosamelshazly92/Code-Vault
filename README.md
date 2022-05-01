@@ -40,7 +40,7 @@ Examples:
 ### Solution
 
 ```javascript
-function fn(str) {
+const fn = (str) => {
   let arr = [];
   let pairs = "";
 
@@ -75,5 +75,25 @@ function fn(str) {
   }
 
   return arr;
-}
+};
 ```
+
+---
+
+### Sun_May_01_2022_14_47_07_GMT_0200
+
+Complete the method that takes a boolean value and return a "Yes" string for true, or a "No" string for false.
+
+## Solution
+
+```javascript
+const fn = (bool) => {
+  if (bool) {
+    return "Yes";
+  } else {
+    return "No";
+  }
+};
+```
+
+---
