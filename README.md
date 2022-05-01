@@ -155,7 +155,9 @@ Examples
 ### Solution
 
 ```javascript
-return Math.ceil(year / 100);
+const fn = (year) => {
+  return Math.ceil(year / 100);
+};
 ```
 
 ---
