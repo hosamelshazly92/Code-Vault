@@ -4,6 +4,10 @@
 
 ![alt text](codewars.png "Logo Title Text 1")
 
+<p align="center">
+    <img height="200" src="./codewars.png" alt="codewars">
+</p>
+
 ### 001_Thu_Apr_28_2022_13_23_09_GMT_0200
 
 Given an array of integers your solution should find the smallest integer.
