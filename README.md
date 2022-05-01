@@ -16,10 +16,12 @@
 
 Given an array of integers your solution should find the smallest integer.
 
-For example:
+###### Examples
 
 Given [34, 15, 88, 2] your solution will return 2.
+
 Given [34, -345, -1, 100] your solution will return -345.
+
 You can assume, for the purpose of this kata, that the supplied array will not be empty.
 
 ### Solution
@@ -44,7 +46,7 @@ const fn = (arr) => {
 
 Complete the solution so that it splits the string into pairs of two characters. If the string contains an odd number of characters then it should replace the missing second character of the final pair with an underscore ('\_').
 
-Examples:
+###### Examples
 
 - 'abc' => ['ab', 'c_']
 - 'abcdef' => ['ab', 'cd', 'ef']
@@ -118,7 +120,7 @@ Assume both the given number and the number of times to count will be positive n
 
 Return the results as an array (or list in Python, Haskell or Elixir).
 
-Examples:
+###### Examples
 
 - countBy(1,10) === [1,2,3,4,5,6,7,8,9,10]
 - countBy(2,5) === [2,4,6,8,10]
