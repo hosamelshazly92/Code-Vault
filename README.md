@@ -1,4 +1,8 @@
-# Code-Vault
+# Code Vault
+
+## CodeWars Challenges
+
+![alt text](codewars.png "Logo Title Text 1")
 
 ### 001_Thu_Apr_28_2022_13_23_09_GMT_0200
 
