@@ -35,7 +35,7 @@ const fn = (arr) => {
 another solution
 
 ```javascript
-const fn = (arr) => {
+const fn2 = (arr) => {
   return arr.sort((a, b) => a - b)[0];
 };
 ```
@@ -162,6 +162,38 @@ Given a year, return the century it is in.
 ```javascript
 const fn = (year) => {
   return Math.ceil(year / 100);
+};
+```
+
+---
+
+### 006_Tue_May_03_2022_02_57_01_GMT_0200
+
+Simple, remove the spaces from the string, then return the resultant string.
+
+### Solution
+
+```javascript
+const fn = (str) => {
+  return str.replaceAll(" ", "");
+};
+```
+
+another solution
+
+```javascript
+const fn2 = (str) => {
+  let newStr = "";
+
+  for (let i = 0; i < str.length; i++) {
+    if (str[i] === " ") {
+      continue;
+    } else {
+      newStr += str[i];
+    }
+  }
+
+  return newStr;
 };
 ```
 
